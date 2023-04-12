@@ -3,18 +3,18 @@
 ___
 ![artist](img/artist.png)
 ___
-## Contéudo
+## Contéudo:
 Sistema de recomendação são algoritmos que utiliza variadas técnicas computacionais combinadas que procura prever a "avaliação" e/ou "preferência" de itens ao usuário. Este sistema de recomendação são utilizados nas mais diversas áreas.
 
 ___
-## Objetivo
+## Objetivo:
 Recomendação de Artista
 ___
-## Objetivo Específico
+## Objetivo Específico:
 Recomendação de Artistas para Bares.
 ___
 
-## Propósito
+## Propósito:
     Nosso modelo de Algoritmo tem a pretensão de estimar/predizer se um Artista do nosso portfolio tem os mesmos qualitativos, features, para ser uma recomendação assertiva de continuação do projeto musical do bar.
     Nas recomendações dos Artistas para Bares ocorrerão uma renovação sutil para manter o perfil do estabelecimento e a rotatividade dos artistas.
 
@@ -27,7 +27,7 @@ ___
         * Estabelecimento com maior número de propostas;
         * Estilo musical mais tocado.
 ___
-### Insight
+### Insight:
 * Análise dos estilos musicais mais tocados:
         Top -  Estilo prinicipal e secundário.
 * Análise dos melhores artistas por estilo.
@@ -35,26 +35,29 @@ ___
 
 ___
 
-### Dataset
+### Dataset:
 
 ![dataset](img/dataset.png)
 
 ___
-### Projeto:
+### Sobre o projeto:
 
 
 Sistema de recomendação:
-* Filtragem baseada em conteúdo LightFM .
+* Filtragem baseada em conteúdo LightFM.
 
 Essa abordagem utiliza uma série de característica discretas de um item (estabelecimento) para recomendar (artistas) com propriedades semelhantes.
 
 Análises:
 
 1 - Realiza a análise do estilo musical de cada estabelecimento;
+
 2 - Realiza a análise do estilo musical de cada artista;
+
 3 - Algoritmo prever as similaridades entre os dois itens e faz a devolutiva com a recomendação. 
 
-![similar](img/similares.png)
+
+___
 
 
 ### Tecnologia:
@@ -67,18 +70,19 @@ Análises:
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 
-
 ___
 
-### Deploy
+### Deploy:
 ![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)
 
 ![artist](img/deploy.png)
 ___
-### Referências Bibliograficas
-KNN  - https://scikit-learn.org/stable/modules/neighbors.html
+### Referências Bibliograficas:
+KNN  - https://scikit-learn.org/stable/modules/neighbors.html.
 
-LIGHTFM - https://making.lyst.com/lightfm/docs/home.html
+LIGHTFM - https://making.lyst.com/lightfm/docs/home.html.
+
+Referência Estudo -  https://www.kaggle.com/code/camiloemartinez/sistemas-de-recomendacion-con-surprise-y-lightfm.
 
 Sistema de recomendação: https://www.supero.com.br
 
@@ -87,16 +91,32 @@ ___
  * Recomendador de artista com filtragem colaborativa baseada em itens KNN;
  * Recomendador de artista com  filtragem baseada em conteúdo baseada em LightFM
 ___
-### Orientador
+
+### Orientador:
  * Wagner Maurício Nunes dos Santos
 
 ___
-## Equipe desenvolvedora:
-* Adgelson Gomes 
-* Bruno Farias  
-* Eduardo Iwasaki
-* Nilva Pires
+## Equipe Integradora:
 
+[<img src="https://avatars.githubusercontent.com/u/96923538?v=4" width=115><br><sub>**Adgelson Gomes**</sub>](https://github.com/Gelsonbrasilia) 
+
+___
+[<img src="https://avatars.githubusercontent.com/u/110266669?v=4" width=115><br><sub>**Bruno Farias**</sub>](https://github.com/buirf)
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brunorfarias/)](https://www.linkedin.com/in/brunorfarias/)  
+___
+
+[<img src="https://avatars.githubusercontent.com/u/130196692?v=4" width=115><br><sub>**Eduardo Iwasaki**</sub>](https://github.com/EduardoMassa)
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eduardo-massayuki-iwasaki/)](https://www.linkedin.com/in/eduardo-massayuki-iwasaki/)
+___
+
+[<img src="https://avatars.githubusercontent.com/u/71607298?v=4" width=115><br><sub>**Nilva Pires**</sub>](https://github.com/nilva2020)    
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nilva-pires/)](https://www.linkedin.com/in/nilva-pires/)
+
+
+
+ 
 
 ___
 <p text-align="center">🔸Projeto Integrador - Digital House 🔸Ciências de Dados 🔸2023</p>
