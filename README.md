@@ -123,6 +123,8 @@ ___
 [<img src="https://avatars.githubusercontent.com/u/96923538?v=4" width=115><br><sub>**Adgelson Gomes**</sub>](https://github.com/Gelsonbrasilia) 
 
 ___
+
+
 [<img src="https://avatars.githubusercontent.com/u/110266669?v=4" width=115><br><sub>**Bruno Farias**</sub>](https://github.com/buirf)
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brunorfarias/)](https://www.linkedin.com/in/brunorfarias/)  
