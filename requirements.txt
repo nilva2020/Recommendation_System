@@ -1,0 +1,13 @@
+seaborn 
+pandas
+scipy
+surprise 
+scikit-learn
+lightfm
+joblib
+pandas
+numpy
+seaborn
+matplotlib
+streamlit
+openpyxl
