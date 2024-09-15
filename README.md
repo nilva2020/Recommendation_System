@@ -119,7 +119,10 @@ ___
 
 ___
 ## Equipe Integradora:
+[<img src="https://avatars.githubusercontent.com/u/71607298?v=4" width=115><br><sub>**Nilva Pires**</sub>](https://github.com/nilva2020)    
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nilva-pires/)](https://www.linkedin.com/in/nilva-pires/)
 
+---
 [<img src="https://avatars.githubusercontent.com/u/96923538?v=4" width=115><br><sub>**Adgelson Gomes**</sub>](https://github.com/Gelsonbrasilia) 
 
 ___
@@ -135,8 +138,7 @@ ___
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eduardo-massayuki-iwasaki/)](https://www.linkedin.com/in/eduardo-massayuki-iwasaki/)
 ___
 
-[<img src="https://avatars.githubusercontent.com/u/71607298?v=4" width=115><br><sub>**Nilva Pires**</sub>](https://github.com/nilva2020)    
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nilva-pires/)](https://www.linkedin.com/in/nilva-pires/)
+
 
 
 
